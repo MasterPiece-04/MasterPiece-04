@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python..html..css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me whatsupp:22843053
+
 
 <!---
 MasterPiece-04/MasterPiece-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
